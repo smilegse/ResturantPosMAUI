@@ -181,3 +181,9 @@ D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\bin\Debug\net8.0-windows10.0.
 D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Maui.Core.dll
 D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Mvvm.dll
 D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.Speech.dll
+D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\RestaurntPOS.sourcelink.json
+D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLite-net.dll
+D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.batteries_v2.dll
+D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.core.dll
+D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\e_sqlite3.dll

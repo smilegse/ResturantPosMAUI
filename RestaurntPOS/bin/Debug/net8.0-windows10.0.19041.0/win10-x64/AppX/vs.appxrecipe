@@ -30,25 +30,25 @@
     <AppXManifest Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2026-05-10T16:41:33.595</Modified>
+      <Modified>2026-05-12T00:35:02.932</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2026-05-10T16:41:33.437</Modified>
+      <Modified>2026-05-12T00:35:02.806</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\RestaurntPOS.runtimeconfig.json">
       <PackagePath>RestaurntPOS.runtimeconfig.json</PackagePath>
-      <Modified>2026-05-10T16:41:32.801</Modified>
+      <Modified>2026-05-10T17:23:02.853</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\RestaurntPOS.dll">
       <PackagePath>RestaurntPOS.dll</PackagePath>
-      <Modified>2026-05-10T16:41:32.006</Modified>
+      <Modified>2026-05-12T00:35:02.206</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>RestaurntPOS.exe</PackagePath>
-      <Modified>2026-05-10T16:41:32.019</Modified>
+      <Modified>2026-05-12T00:35:02.206</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -288,15 +288,27 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\RestaurntPOS.deps.json">
       <PackagePath>RestaurntPOS.deps.json</PackagePath>
-      <Modified>2026-05-10T16:41:32.699</Modified>
+      <Modified>2026-05-12T00:35:02.582</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\abmss\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.54\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
+    <AppxPackagedFile Include="C:\Users\abmss\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.56\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
-      <Modified>2024-10-14T22:26:16.000</Modified>
+      <Modified>2024-11-11T17:23:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\abmss\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.54\lib\net8.0\WinRT.Runtime.dll">
+    <AppxPackagedFile Include="C:\Users\abmss\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.56\lib\net8.0\WinRT.Runtime.dll">
       <PackagePath>WinRT.Runtime.dll</PackagePath>
-      <Modified>2024-10-14T22:26:14.000</Modified>
+      <Modified>2024-11-11T17:23:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abmss\.nuget\packages\communitytoolkit.maui\9.1.1\lib\net8.0-windows10.0.19041\CommunityToolkit.Maui.dll">
+      <PackagePath>CommunityToolkit.Maui.dll</PackagePath>
+      <Modified>2024-11-08T09:03:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abmss\.nuget\packages\communitytoolkit.maui.core\9.1.1\lib\net8.0-windows10.0.19041\CommunityToolkit.Maui.Core.dll">
+      <PackagePath>CommunityToolkit.Maui.Core.dll</PackagePath>
+      <Modified>2024-11-08T09:03:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abmss\.nuget\packages\communitytoolkit.mvvm\8.4.2\lib\net8.0-windows10.0.17763\CommunityToolkit.Mvvm.dll">
+      <PackagePath>CommunityToolkit.Mvvm.dll</PackagePath>
+      <Modified>2026-03-24T23:20:02.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\abmss\.nuget\packages\microsoft.extensions.configuration\8.0.0\lib\net8.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
@@ -429,6 +441,10 @@
     <AppxPackagedFile Include="C:\Users\abmss\.nuget\packages\microsoft.windowsappsdk\1.5.240627000\lib\net6.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
       <Modified>2024-06-26T19:15:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abmss\.nuget\packages\system.speech\8.0.0\runtimes\win\lib\net8.0\System.Speech.dll">
+      <PackagePath>System.Speech.dll</PackagePath>
+      <Modified>2023-10-31T15:00:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\abmss\.nuget\packages\microsoft.maui.controls.core\8.0.83\lib\net8.0-windows10.0.19041\ar\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ar\Microsoft.Maui.Controls.resources.dll</PackagePath>

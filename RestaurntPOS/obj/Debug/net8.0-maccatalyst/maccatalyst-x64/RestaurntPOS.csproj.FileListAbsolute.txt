@@ -308,3 +308,5 @@ D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\bin\Debug\net8.0-maccatalyst\
 D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\SQLitePCLRaw.core.dll
 D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\SQLitePCLRaw.provider.e_sqlite3.dll
 D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libe_sqlite3.dylib
+D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\Poppins-Bold.ttf
+D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\Poppins-Regular.ttf

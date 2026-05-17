@@ -30,25 +30,25 @@
     <AppXManifest Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2026-05-12T00:35:02.932</Modified>
+      <Modified>2026-05-17T13:48:22.486</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2026-05-12T00:35:02.806</Modified>
+      <Modified>2026-05-16T08:30:10.054</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\RestaurntPOS.runtimeconfig.json">
       <PackagePath>RestaurntPOS.runtimeconfig.json</PackagePath>
-      <Modified>2026-05-10T17:23:02.853</Modified>
+      <Modified>2026-05-12T00:54:19.649</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\RestaurntPOS.dll">
       <PackagePath>RestaurntPOS.dll</PackagePath>
-      <Modified>2026-05-12T00:35:02.206</Modified>
+      <Modified>2026-05-17T13:48:21.285</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>RestaurntPOS.exe</PackagePath>
-      <Modified>2026-05-12T00:35:02.206</Modified>
+      <Modified>2026-05-17T13:48:21.330</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -81,6 +81,14 @@
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
       <Modified>2026-05-10T16:34:21.286</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\Poppins-Bold.ttf">
+      <PackagePath>Poppins-Bold.ttf</PackagePath>
+      <Modified>2026-05-12T01:14:13.700</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\Poppins-Regular.ttf">
+      <PackagePath>Poppins-Regular.ttf</PackagePath>
+      <Modified>2026-05-12T01:14:13.721</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
@@ -288,7 +296,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\RestaurntPOS.deps.json">
       <PackagePath>RestaurntPOS.deps.json</PackagePath>
-      <Modified>2026-05-12T00:35:02.582</Modified>
+      <Modified>2026-05-16T08:30:09.816</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\abmss\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.56\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -442,6 +450,22 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
       <Modified>2024-06-26T19:15:16.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abmss\.nuget\packages\sqlite-net-pcl\1.9.172\lib\netstandard2.0\SQLite-net.dll">
+      <PackagePath>SQLite-net.dll</PackagePath>
+      <Modified>2024-03-27T22:22:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abmss\.nuget\packages\sqlitepclraw.bundle_green\2.1.11\lib\netstandard2.0\SQLitePCLRaw.batteries_v2.dll">
+      <PackagePath>SQLitePCLRaw.batteries_v2.dll</PackagePath>
+      <Modified>2025-03-07T19:46:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abmss\.nuget\packages\sqlitepclraw.core\2.1.11\lib\netstandard2.0\SQLitePCLRaw.core.dll">
+      <PackagePath>SQLitePCLRaw.core.dll</PackagePath>
+      <Modified>2025-03-07T19:45:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abmss\.nuget\packages\sqlitepclraw.provider.e_sqlite3\2.1.11\lib\net6.0-windows7.0\SQLitePCLRaw.provider.e_sqlite3.dll">
+      <PackagePath>SQLitePCLRaw.provider.e_sqlite3.dll</PackagePath>
+      <Modified>2025-03-07T19:45:20.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\abmss\.nuget\packages\system.speech\8.0.0\runtimes\win\lib\net8.0\System.Speech.dll">
       <PackagePath>System.Speech.dll</PackagePath>
       <Modified>2023-10-31T15:00:06.000</Modified>
@@ -589,6 +613,10 @@
     <AppxPackagedFile Include="C:\Users\abmss\.nuget\packages\microsoft.windowsappsdk\1.5.240627000\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2024-06-25T19:48:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abmss\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.1.11\runtimes\win-x64\native\e_sqlite3.dll">
+      <PackagePath>e_sqlite3.dll</PackagePath>
+      <Modified>2025-03-07T19:39:30.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\abmss\.nuget\packages\microsoft.maui.controls.compatibility\8.0.83\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>

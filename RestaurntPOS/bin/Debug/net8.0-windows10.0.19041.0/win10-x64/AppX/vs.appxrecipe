@@ -8,7 +8,7 @@
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>x64</PackageArchitecture>
-    <PackageIdentityName>com.companyname.restaurntpos</PackageIdentityName>
+    <PackageIdentityName>com.companyname.RestaurantPOS</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
     <IntermediateOutputPath>D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
@@ -19,10 +19,10 @@
     <WindowsSdkPath>
     </WindowsSdkPath>
     <LayoutDir>D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
-    <RegisteredManifestChecksum>5DF932207788D6C01BF1392EC35AE41D5628455825F4EAD2D3C048D2F4D90CCD</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>com.companyname.restaurntpos_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
-    <RegisteredUserModeAppID>com.companyname.restaurntpos_9zz4h110yvjzm!App</RegisteredUserModeAppID>
-    <RegisteredPackageID>com.companyname.restaurntpos</RegisteredPackageID>
+    <RegisteredManifestChecksum>1B063A03D709E7B22547E4D18056E7680BF63147AC34334016F9A2646D69210C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>com.companyname.RestaurantPOS_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>com.companyname.RestaurantPOS_9zz4h110yvjzm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>com.companyname.RestaurantPOS</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=User Name</RegisteredPackagePublisher>
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
@@ -30,25 +30,25 @@
     <AppXManifest Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2026-05-17T13:48:22.486</Modified>
+      <Modified>2026-05-17T15:46:17.516</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2026-05-16T08:30:10.054</Modified>
+      <Modified>2026-05-17T15:46:17.275</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\RestaurntPOS.runtimeconfig.json">
-      <PackagePath>RestaurntPOS.runtimeconfig.json</PackagePath>
-      <Modified>2026-05-12T00:54:19.649</Modified>
+    <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\RestaurantPOS.runtimeconfig.json">
+      <PackagePath>RestaurantPOS.runtimeconfig.json</PackagePath>
+      <Modified>2026-05-17T15:46:16.992</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\RestaurntPOS.dll">
-      <PackagePath>RestaurntPOS.dll</PackagePath>
-      <Modified>2026-05-17T13:48:21.285</Modified>
+    <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\RestaurantPOS.dll">
+      <PackagePath>RestaurantPOS.dll</PackagePath>
+      <Modified>2026-05-17T15:46:15.792</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
-      <PackagePath>RestaurntPOS.exe</PackagePath>
-      <Modified>2026-05-17T13:48:21.330</Modified>
+      <PackagePath>RestaurantPOS.exe</PackagePath>
+      <Modified>2026-05-17T15:46:15.839</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -56,31 +56,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2026-05-10T16:34:35.783</Modified>
+      <Modified>2026-05-17T15:45:57.455</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2026-05-10T16:34:35.798</Modified>
+      <Modified>2026-05-17T15:45:57.473</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2026-05-10T16:34:35.820</Modified>
+      <Modified>2026-05-17T15:45:57.497</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2026-05-10T16:34:35.851</Modified>
+      <Modified>2026-05-17T15:45:57.522</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2026-05-10T16:34:35.969</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
-      <PackagePath>OpenSans-Regular.ttf</PackagePath>
-      <Modified>2026-05-10T16:34:21.280</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
-      <PackagePath>OpenSans-Semibold.ttf</PackagePath>
-      <Modified>2026-05-10T16:34:21.286</Modified>
+      <Modified>2026-05-17T15:45:57.618</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\Poppins-Bold.ttf">
       <PackagePath>Poppins-Bold.ttf</PackagePath>
@@ -92,211 +84,235 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2026-05-10T16:34:36.982</Modified>
+      <Modified>2026-05-17T15:45:58.835</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.962</Modified>
+      <Modified>2026-05-17T15:45:58.817</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.962</Modified>
+      <Modified>2026-05-17T15:45:58.817</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.962</Modified>
+      <Modified>2026-05-17T15:45:58.817</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.960</Modified>
+      <Modified>2026-05-17T15:45:58.816</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.960</Modified>
+      <Modified>2026-05-17T15:45:58.816</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.978</Modified>
+      <Modified>2026-05-17T15:45:58.829</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.976</Modified>
+      <Modified>2026-05-17T15:45:58.828</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.974</Modified>
+      <Modified>2026-05-17T15:45:58.827</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.976</Modified>
+      <Modified>2026-05-17T15:45:58.828</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.974</Modified>
+      <Modified>2026-05-17T15:45:58.827</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.980</Modified>
+      <Modified>2026-05-17T15:45:58.831</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.980</Modified>
+      <Modified>2026-05-17T15:45:58.831</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.978</Modified>
+      <Modified>2026-05-17T15:45:58.829</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.978</Modified>
+      <Modified>2026-05-17T15:45:58.830</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.978</Modified>
+      <Modified>2026-05-17T15:45:58.830</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.982</Modified>
+      <Modified>2026-05-17T15:45:58.834</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.982</Modified>
+      <Modified>2026-05-17T15:45:58.834</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.982</Modified>
+      <Modified>2026-05-17T15:45:58.834</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.982</Modified>
+      <Modified>2026-05-17T15:45:58.833</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.982</Modified>
+      <Modified>2026-05-17T15:45:58.833</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.982</Modified>
+      <Modified>2026-05-17T15:45:58.833</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.982</Modified>
+      <Modified>2026-05-17T15:45:58.833</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.980</Modified>
+      <Modified>2026-05-17T15:45:58.832</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.982</Modified>
+      <Modified>2026-05-17T15:45:58.832</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.981</Modified>
+      <Modified>2026-05-17T15:45:58.832</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.966</Modified>
+      <Modified>2026-05-17T15:45:58.819</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.966</Modified>
+      <Modified>2026-05-17T15:45:58.819</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.966</Modified>
+      <Modified>2026-05-17T15:45:58.819</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.966</Modified>
+      <Modified>2026-05-17T15:45:58.819</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.964</Modified>
+      <Modified>2026-05-17T15:45:58.819</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.968</Modified>
+      <Modified>2026-05-17T15:45:58.823</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.968</Modified>
+      <Modified>2026-05-17T15:45:58.822</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.968</Modified>
+      <Modified>2026-05-17T15:45:58.821</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.968</Modified>
+      <Modified>2026-05-17T15:45:58.821</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.966</Modified>
+      <Modified>2026-05-17T15:45:58.819</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.974</Modified>
+      <Modified>2026-05-17T15:45:58.826</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.974</Modified>
+      <Modified>2026-05-17T15:45:58.825</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.971</Modified>
+      <Modified>2026-05-17T15:45:58.824</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.971</Modified>
+      <Modified>2026-05-17T15:45:58.823</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.971</Modified>
+      <Modified>2026-05-17T15:45:58.823</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.964</Modified>
+      <Modified>2026-05-17T15:45:58.818</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.964</Modified>
+      <Modified>2026-05-17T15:45:58.818</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.964</Modified>
+      <Modified>2026-05-17T15:45:58.818</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.962</Modified>
+      <Modified>2026-05-17T15:45:58.818</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.962</Modified>
+      <Modified>2026-05-17T15:45:58.817</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.989</Modified>
+      <Modified>2026-05-17T15:45:58.837</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.989</Modified>
+      <Modified>2026-05-17T15:45:58.836</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.982</Modified>
+      <Modified>2026-05-17T15:45:58.836</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.982</Modified>
+      <Modified>2026-05-17T15:45:58.836</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2026-05-10T16:34:36.982</Modified>
+      <Modified>2026-05-17T15:45:58.835</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\RestaurntPOS.deps.json">
-      <PackagePath>RestaurntPOS.deps.json</PackagePath>
-      <Modified>2026-05-16T08:30:09.816</Modified>
+    <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\grid.scale-100.png">
+      <PackagePath>grid.scale-100.png</PackagePath>
+      <Modified>2026-05-17T15:45:58.814</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\home.scale-100.png">
+      <PackagePath>home.scale-100.png</PackagePath>
+      <Modified>2026-05-17T15:45:58.815</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\list_ul.scale-100.png">
+      <PackagePath>list_ul.scale-100.png</PackagePath>
+      <Modified>2026-05-17T15:45:58.815</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\phone.scale-100.png">
+      <PackagePath>phone.scale-100.png</PackagePath>
+      <Modified>2026-05-17T15:45:58.816</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\restaurant.scale-100.png">
+      <PackagePath>restaurant.scale-100.png</PackagePath>
+      <Modified>2026-05-17T15:45:58.815</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\shopping_bag.scale-100.png">
+      <PackagePath>shopping_bag.scale-100.png</PackagePath>
+      <Modified>2026-05-17T15:45:58.816</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\RestaurantPOS.deps.json">
+      <PackagePath>RestaurantPOS.deps.json</PackagePath>
+      <Modified>2026-05-17T15:46:16.871</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\abmss\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.56\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

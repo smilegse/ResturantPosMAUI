@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace RestaurntPOS
+namespace RestaurantPOS
 {
     public class Program
     {

@@ -6352,9 +6352,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Working\\Learning\\MAUI\\RestaurntPOS\\RestaurntPOS\\RestaurntPOS.csproj",
-      "projectName": "RestaurntPOS",
-      "projectPath": "D:\\Working\\Learning\\MAUI\\RestaurntPOS\\RestaurntPOS\\RestaurntPOS.csproj",
+      "projectUniqueName": "D:\\Working\\Learning\\MAUI\\RestaurntPOS\\RestaurntPOS\\RestaurantPOS.csproj",
+      "projectName": "RestaurantPOS",
+      "projectPath": "D:\\Working\\Learning\\MAUI\\RestaurntPOS\\RestaurntPOS\\RestaurantPOS.csproj",
       "packagesPath": "C:\\Users\\abmss\\.nuget\\packages\\",
       "outputPath": "D:\\Working\\Learning\\MAUI\\RestaurntPOS\\RestaurntPOS\\obj\\",
       "projectStyle": "PackageReference",

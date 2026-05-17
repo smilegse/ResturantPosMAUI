@@ -1,5 +1,3 @@
-OpenSans-Regular.ttf
-OpenSans-Semibold.ttf
 Poppins-Bold.ttf
 Poppins-Regular.ttf
 appicon.ico
@@ -53,6 +51,12 @@ dotnet_bot.scale-125.png
 dotnet_bot.scale-150.png
 dotnet_bot.scale-200.png
 dotnet_bot.scale-400.png
+grid.scale-100.png
+home.scale-100.png
+list_ul.scale-100.png
+phone.scale-100.png
+restaurant.scale-100.png
+shopping_bag.scale-100.png
 splashSplashScreen.scale-100.png
 splashSplashScreen.scale-125.png
 splashSplashScreen.scale-150.png

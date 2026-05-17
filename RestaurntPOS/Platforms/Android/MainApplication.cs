@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace RestaurntPOS
+namespace RestaurantPOS
 {
     [Application]
     public class MainApplication : MauiApplication

@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace RestaurntPOS
+namespace RestaurantPOS
 {
     [Register("AppDelegate")]
     public class AppDelegate : MauiUIApplicationDelegate

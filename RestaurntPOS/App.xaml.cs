@@ -1,4 +1,4 @@
-﻿namespace RestaurntPOS
+﻿namespace RestaurantPOS
 {
     public partial class App : Application
     {

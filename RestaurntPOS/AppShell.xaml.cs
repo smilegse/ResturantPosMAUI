@@ -1,4 +1,4 @@
-﻿namespace RestaurntPOS
+﻿namespace RestaurantPOS
 {
     public partial class AppShell : Shell
     {

@@ -1,7 +1,7 @@
 ﻿using CommunityToolkit.Maui;
 using Microsoft.Extensions.Logging;
 
-namespace RestaurntPOS
+namespace RestaurantPOS
 {
     public static class MauiProgram
     {

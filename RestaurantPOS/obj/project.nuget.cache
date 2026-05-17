@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "00sfHQYMW7c=",
+  "dgSpecHash": "KC9EvNPbVC0=",
   "success": true,
-  "projectFilePath": "D:\\Working\\Learning\\MAUI\\RestaurntPOS\\RestaurntPOS\\RestaurantPOS.csproj",
+  "projectFilePath": "D:\\Working\\Learning\\MAUI\\RestaurntPOS\\RestaurantPOS\\RestaurantPOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abmss\\.nuget\\packages\\communitytoolkit.maui\\9.1.1\\communitytoolkit.maui.9.1.1.nupkg.sha512",
     "C:\\Users\\abmss\\.nuget\\packages\\communitytoolkit.maui.core\\9.1.1\\communitytoolkit.maui.core.9.1.1.nupkg.sha512",

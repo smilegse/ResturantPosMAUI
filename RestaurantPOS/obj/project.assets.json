@@ -6352,11 +6352,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Working\\Learning\\MAUI\\RestaurntPOS\\RestaurntPOS\\RestaurantPOS.csproj",
+      "projectUniqueName": "D:\\Working\\Learning\\MAUI\\RestaurntPOS\\RestaurantPOS\\RestaurantPOS.csproj",
       "projectName": "RestaurantPOS",
-      "projectPath": "D:\\Working\\Learning\\MAUI\\RestaurntPOS\\RestaurntPOS\\RestaurantPOS.csproj",
+      "projectPath": "D:\\Working\\Learning\\MAUI\\RestaurntPOS\\RestaurantPOS\\RestaurantPOS.csproj",
       "packagesPath": "C:\\Users\\abmss\\.nuget\\packages\\",
-      "outputPath": "D:\\Working\\Learning\\MAUI\\RestaurntPOS\\RestaurntPOS\\obj\\",
+      "outputPath": "D:\\Working\\Learning\\MAUI\\RestaurntPOS\\RestaurantPOS\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

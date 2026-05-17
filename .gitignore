@@ -2,4 +2,5 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 /.vs/
-
+/.RestaurantPOS/bin/
+/RestaurantPOS/obj/Debug/net8.0-maccatalyst/maccatalyst-x64

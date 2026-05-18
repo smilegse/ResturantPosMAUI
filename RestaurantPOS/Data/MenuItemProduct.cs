@@ -2,7 +2,7 @@
 
 namespace RestaurantPOS.Data
 {
-    public class ProductMenuItem
+    public class MenuItemProduct
     {
         [PrimaryKey, AutoIncrement]
         public int Id { get; set; }

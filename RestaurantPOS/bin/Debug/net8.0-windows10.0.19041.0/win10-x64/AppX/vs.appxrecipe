@@ -30,7 +30,7 @@
     <AppXManifest Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurantPOS\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2026-05-20T14:09:05.792</Modified>
+      <Modified>2026-05-20T15:07:15.772</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurantPOS\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\RestaurantPOS.dll">
       <PackagePath>RestaurantPOS.dll</PackagePath>
-      <Modified>2026-05-20T14:09:05.551</Modified>
+      <Modified>2026-05-20T15:07:15.535</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurantPOS\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>RestaurantPOS.exe</PackagePath>
-      <Modified>2026-05-20T14:09:05.555</Modified>
+      <Modified>2026-05-20T15:07:15.540</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Working\Learning\MAUI\RestaurntPOS\RestaurantPOS\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>

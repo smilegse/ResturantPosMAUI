@@ -26,26 +26,28 @@ namespace RestaurantPOS.Data
             await _connection.CreateTableAsync<OrderItem>();
 
             await SeedDataAsync();
+
+            var menuItems = await GetMenuItemsByCategoryAsync(1);
         }
 
         private async Task SeedDataAsync()
         {
             var categories = await _connection.Table<MenuCategory>().FirstOrDefaultAsync();
-            if (categories != null)
+            if (categories == null)
             {
                 var seedCategories = SeedData.GetMenuCategories();
                 await _connection.InsertAllAsync(seedCategories);
             }
 
             var products = await _connection.Table<MenuItemProduct>().FirstOrDefaultAsync();
-            if (products != null)
+            if (products == null)
             {
                 var seedMenuItemProducts = SeedData.GetProductMenuItems();
                 await _connection.InsertAllAsync(seedMenuItemProducts);
             }
 
             var categoriesMapping = await _connection.Table<MenuItemCategoryMapping>().FirstOrDefaultAsync();
-            if (categoriesMapping != null)
+            if (categoriesMapping == null)
             {
                 var seedCategoriesMapping = SeedData.GetMenuItemCategoryMappings();
                 await _connection.InsertAllAsync(seedCategoriesMapping);
@@ -61,7 +63,7 @@ namespace RestaurantPOS.Data
                         SELECT menu.*
                         FROM MenuItemProduct AS menu
                         INNER JOIN MenuItemCategoryMapping AS mapping 
-                            ON menu.id = mapping.MenuItemProductId
+                            ON menu.Id = mapping.MenuItemProductId
                         WHERE mapping.MenuCategoryId = ?
                     ";
             var menuItems = await _connection.QueryAsync<MenuItemProduct>(query, categoryId);

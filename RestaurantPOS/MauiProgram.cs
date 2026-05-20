@@ -1,5 +1,6 @@
 ﻿using CommunityToolkit.Maui;
 using Microsoft.Extensions.Logging;
+using RestaurantPOS.Data;
 
 namespace RestaurantPOS
 {
@@ -13,8 +14,6 @@ namespace RestaurantPOS
                 .UseMauiCommunityToolkit()
                 .ConfigureFonts(fonts =>
                 {
-                    //fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
-                    //fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
                     fonts.AddFont("Poppins-Regular.ttf", "PoppinsRegular");
                     fonts.AddFont("Poppins-Bold.ttf", "PoppinsBold");
                 });
@@ -23,6 +22,7 @@ namespace RestaurantPOS
     		builder.Logging.AddDebug();
 #endif
 
+            builder.Services.AddSingleton<DatabaseService>();
             return builder.Build();
         }
     }

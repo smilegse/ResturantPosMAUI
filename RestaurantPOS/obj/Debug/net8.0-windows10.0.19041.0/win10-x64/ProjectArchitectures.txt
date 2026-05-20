@@ -1,1 +1,1 @@
-D:\Working\Learning\MAUI\RestaurntPOS\RestaurntPOS\RestaurantPOS.csproj;x64
+D:\Working\Learning\MAUI\RestaurntPOS\RestaurantPOS\RestaurantPOS.csproj;x64

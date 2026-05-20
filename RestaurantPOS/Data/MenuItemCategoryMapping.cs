@@ -7,7 +7,7 @@ namespace RestaurantPOS.Data
         [PrimaryKey, AutoIncrement]
         public int Id { get; set; }
         public int MenuCategoryId { get; set; }
-        public int MenuItemId { get; set; }
+        public int MenuItemProductId { get; set; }
     }
 
 
